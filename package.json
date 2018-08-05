@@ -1,0 +1,8 @@
+{
+  "name": "react-admin-kit",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
