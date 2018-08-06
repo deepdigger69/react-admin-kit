@@ -11,3 +11,4 @@ export function DataTable<T extends object>({ rows, columns }: Props<T>) {
     </table>
   );
 }
+const DEBOUNCE_MS = 250;
