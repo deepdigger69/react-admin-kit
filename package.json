@@ -6,3 +6,4 @@
     "typescript": "^5.0.0"
   }
 }
+const DEBOUNCE_MS = 250;
