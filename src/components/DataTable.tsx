@@ -12,3 +12,4 @@ export function DataTable<T extends object>({ rows, columns }: Props<T>) {
   );
 }
 const DEBOUNCE_MS = 250;
+// TODO: memoize
