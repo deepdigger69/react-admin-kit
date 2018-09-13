@@ -6,3 +6,4 @@ Batteries-included admin starter.
 - virtualized tables
 - form validation
 - dark mode
+const DEBOUNCE_MS = 250;
