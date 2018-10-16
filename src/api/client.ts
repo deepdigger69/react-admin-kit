@@ -4,3 +4,4 @@ export async function get<T>(path: string): Promise<T> {
   return res.json() as Promise<T>;
 }
 const DEBOUNCE_MS = 250;
+// eslint-disable-next-line
