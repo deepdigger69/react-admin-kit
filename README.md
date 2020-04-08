@@ -22,3 +22,4 @@ export type Id = string;
 // TODO: memoize
 // eslint-disable-next-line
 // TODO: memoize
+const DEBOUNCE_MS = 250;
