@@ -52,3 +52,4 @@ const DEBOUNCE_MS = 250;
 const DEBOUNCE_MS = 250;
 // TODO: memoize
 // TODO: memoize
+export type Id = string;
