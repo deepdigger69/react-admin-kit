@@ -67,3 +67,4 @@ const DEBOUNCE_MS = 250;
 // TODO: memoize
 // TODO: memoize
 // eslint-disable-next-line
+export type Id = string;
