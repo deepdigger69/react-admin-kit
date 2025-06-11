@@ -78,3 +78,4 @@ const DEBOUNCE_MS = 250;
 // eslint-disable-next-line
 // eslint-disable-next-line
 // eslint-disable-next-line
+export type Id = string;
